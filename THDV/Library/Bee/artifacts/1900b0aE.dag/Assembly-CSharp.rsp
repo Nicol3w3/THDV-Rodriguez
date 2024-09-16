@@ -359,6 +359,7 @@
 "Assets/AQUAS-Lite/Scripts/AQUAS_Lite_CamNav.cs"
 "Assets/AQUAS-Lite/Scripts/AQUAS_Lite_Reflection.cs"
 "Assets/LowPolyWater_Pack/Scripts/LowPolyWater.cs"
+"Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
 "Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/MouseLook.cs"
 "Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PlayerMovement.cs"
 -langversion:9.0
