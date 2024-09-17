@@ -380,9 +380,6 @@
 "Assets/DialogueEditor/Assets/Scripts/Editor/NPCConversationEditor.cs"
 "Assets/DialogueEditor/Assets/Scripts/UI/Editor/ConversationManagerEditor.cs"
 "Assets/LowPolyWater_Pack/Scripts/Editor/GeneratePlane.cs"
-"Assets/_/Stuff/Videos/CraftingSystemSO/Scripts/Editor/RecipeScriptableObjectEditor.cs"
-"Assets/_/Stuff/Videos/EditorClicks/Scripts/Editor/CustomActionEditor.cs"
-"Assets/_/Stuff/Videos/Splines/Scripts/Editor/SplineEditor.cs"
 -langversion:9.0
 
 /deterministic
