@@ -383,6 +383,7 @@
 "Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
 "Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/MouseLook.cs"
 "Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PlayerMovement.cs"
+"Assets/QuickOutline/Scripts/Outline.cs"
 "Assets/scri.cs"
 "Assets/Scripts/DialogueTrigger.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
