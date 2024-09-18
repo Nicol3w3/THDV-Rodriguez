@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class GD_InteractObject : MonoBehaviour
 {
-   public string interactionText = "Press E to Interact"
+   public string interactionText = "Press E to Interact";
    public UnityEvent onInteract;
 
    public string GetInteractionText()
@@ -13,8 +13,8 @@ public class GD_InteractObject : MonoBehaviour
         return interactionText;
     }
 
-   public void Interact()
+   public void interact()
    {
-        onInteract.Invoke;
+        onInteract.Invoke();
    }
 }
